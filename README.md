@@ -1,7 +1,8 @@
 <h1 style="color: #44AEFB;"> 👩🏻‍💻 IREM ASLAN </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iemaslan&label=Profile%20views&color=00a3d7&style=flat" alt="iemaslan" /> </p>
 
-![github_cover_banner](https://user-images.githubusercontent.com/116390565/200218625-a1a95347-bc24-44ca-abfc-8532cfb0a347.GIF)
+
+![github_cover_banner](https://user-images.githubusercontent.com/116390565/200219581-b89bdcca-9667-445d-96ef-2398e9fc43c7.GIF)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, artificial intelligence engineering student. I love learning new programming languages and technologies.
@@ -15,7 +16,8 @@
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>![Uploading image.gif…]()
+
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
