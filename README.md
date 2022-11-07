@@ -1,4 +1,5 @@
 <h1 style="color: #44AEFB;"> 👩🏻‍💻 IREM ASLAN </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iemaslan&label=Profile%20views&color=00a3d7&style=flat" alt="iemaslan" /> </p>
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
@@ -70,13 +71,15 @@
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.youtube.com/channel/UCeTTLKEjD2lD2t-r-l-GCkQ" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+        <img 
     </a>
+    </a
     </a>
-    <a href="mailto:iremaslan200313@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
+    <a href="https://twitter.com/itsmeriliy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmeriliy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iemaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iemaslan" height="30" width="40" /></a>
+<a href="https://kaggle.com/iemaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iemaslan" height="30" width="40" /></a>
+<a href="https://instagram.com/iemaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iemaslan" height="30" width="40" /></a>
+</p>
 <!-- End Footer -->
 
 <!-- 
