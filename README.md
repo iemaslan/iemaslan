@@ -21,8 +21,7 @@
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>   
-<!-- Icons Resources -->![image](https://user-images.githubusercontent.com/116390565/200211831-4f59cb5b-499d-4fe0-903b-9801589e2699.gif)
-
+<!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
