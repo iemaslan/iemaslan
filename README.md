@@ -1,8 +1,6 @@
 <h1 style="color: #44AEFB;"> 👩🏻‍💻 IREM ASLAN </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/116390565/200204279-20bc94da-4375-4697-8efe-a2499459a959.gif)
-
-
+![github_cover_banner]
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, artificial intelligence engineering student. I love learning new programming languages and technologies.
 <br>
