@@ -83,10 +83,12 @@
     </a
     </a>
     <a href="https://twitter.com/itsmeriliy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmeriliy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iemaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iemaslan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/irem-aslan-820537219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iemaslan" height="30" width="40" /></a>
 <a href="https://kaggle.com/iemaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iemaslan" height="30" width="40" /></a>
 <a href="https://instagram.com/iemaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iemaslan" height="30" width="40" /></a>
 </p>
 <!-- End Footer -->
 
 <!-- 
+
+https://www.linkedin.com/in/irem-aslan-820537219/
